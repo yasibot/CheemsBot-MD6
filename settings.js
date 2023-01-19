@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['2347043031692'] //ur owner number
+global.ownername = "🦄Teefundz" //ur owner name
+global.ytname = "YT: Fastboosthub" //ur yt chanel name
+global.socialm = "Instagram: Fastboosthub" //ur github or insta name
+global.location = "Ikorodu, Lagos, Nigeria" //ur location
 
 //bot bomdy 
-global.ownernomer = "916909137213" //ur number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot MD V6' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Xeon\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +916909137213" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.ownernomer = "2347043031692" //ur number
+global.premium = ['2347043031692'] //ur premium number
+global.botname = 'Jake' //ur bot name
+global.linkz = "https://chat.whatsapp.com/Ei9otUjZS1j3dRx6dlwZx6" //your theme url which will be displayed on whatsapp
+global.websitex = "https://fastboosthub.com" //ur website to be displayed
+global.botscript = 'https://github.com/Fastboosthub/CheemsBot-MD6' //script link
+global.themeemoji = "🎖️" //ur theme emoji
+global.packname = "Teefundz" //ur sticker watermark packname
+global.author = "Teefundz bot\n\n\nA whatsapp bot developed by\n🎖️Teefundz\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +2347043031692" //ur sticker watermark author
+global.wm = "Fastboosthub Bot Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
